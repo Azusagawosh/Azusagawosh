@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Zuza (Azusagawosh)
 
-<!--
-**Azusagawosh/Azusagawosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Rust Backend Developer**
 
-Here are some ideas to get you started:
+I'm building my backend engineering skills through real-world projects and continuous learning. My goal is to understand technologies deeply and write software that is reliable, maintainable, and easy to reason about.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+* 🔭 Building **keeper-rs** — a backend service written in Rust.
+* 🌱 Learning Rust, Axum, PostgreSQL, SQLx, Docker, Linux, and backend architecture.
+* 🧠 Using AI as a learning and productivity tool while keeping the implementation and technical decisions my own.
+* 📚 Documenting my learning journey and technical notes in Obsidian.
+
+## 🛠 Tech Stack
+
+```text
+Rust
+Axum
+PostgreSQL
+SQLx
+Docker
+Linux
+Git
+tmux
+Kitty
+```
+
+## 🎯 Goals
+
+* Become a professional Rust backend engineer.
+* Build production-ready backend services.
+* Contribute to the Rust open-source ecosystem.
+* Continuously improve my software engineering skills.
+
+## 💡 Philosophy
+
+> Learn by building.
+> Understand before using.
+> Keep things simple.
+> Write code that you can confidently explain.
+> AI is a tool for learning and productivity, not a substitute for understanding.
