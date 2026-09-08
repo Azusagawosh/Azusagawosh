@@ -6,7 +6,7 @@ I'm building my backend engineering skills through real-world projects and conti
 
 ## 🚀 Current Focus
 
-* 🔭 Building **keeper-rs** — a backend service written in Rust.
+* 🔭 Building **flow** — a backend service written in Rust.
 * 🌱 Learning Rust, Axum, PostgreSQL, SQLx, Docker, Linux, and backend architecture.
 * 🧠 Using AI as a learning and productivity tool while keeping the implementation and technical decisions my own.
 * 📚 Documenting my learning journey and technical notes in Obsidian.
