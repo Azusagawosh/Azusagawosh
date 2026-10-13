@@ -1,4 +1,8 @@
 # 👋 Hi, I'm Zuza (Azusagawosh)
-https://github.com/user-attachments/assets/378bd4a9-0a2f-49ce-8a32-3a089e2630c7
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF2E2E&background=0D0D0D&center=true&vCenter=true&width=600&lines=%24+sudo+su+root;%23+systemctl+start+samurai_mode;%23+./unleash_the_blade.sh+--target=world;%23+echo+%22Welcome%2C+Ronin.%22" alt="Typing SVG" />
+  </a>
+</div>
 
 
