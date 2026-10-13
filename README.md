@@ -33,11 +33,6 @@ Rust Backend Developer.
 
 <br>
 
-## Проекты
-
-- **Flow** — CLI-инструмент для управления проектами.
-- **Cafe Manager Pro** — Full-stack приложение (Rust + React + Docker).
-
 <br>
 
 <div align="center">
