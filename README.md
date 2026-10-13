@@ -1,2 +1,21 @@
 # 👋 Hi, I'm Zuza (Azusagawosh)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Accessing+mainframe...;Decrypting+data...;Welcome,+Samurai.&font=Fira+Code&color=FF2E2E&background=0D0D0D)](https://git.io/typing-svg)
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
