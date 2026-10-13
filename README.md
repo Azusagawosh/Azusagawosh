@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Zuza (Azusagawosh)
 <!-- ============================================================ -->
-<img width="600" height="337" alt="video" src="https://github.com/user-attachments/assets/841563ba-c0bc-45d2-9f96-cf8be4afd0ab" />
+<img width="600" height="337" alt="video" src="https://github.com/user-attachments/assets/7703ddd8-b2b5-4e3c-8f66-e33d6787ecdf" />
+
+
 <!-- ============================================================ -->
 <div align="center">
   <img src="video.gif" alt="Samurai Animation" width="600">
@@ -9,57 +10,50 @@
 <br>
 
 <!-- ============================================================ -->
-<!-- САМУРАЙСКИЙ ТЕРМИНАЛ -->
+<!-- ТЕРМИНАЛ -->
 <!-- ============================================================ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF2E2E&background=0D0D0D&center=true&vCenter=true&width=600&lines=%24+sudo+su+root;%23+systemctl+start+samurai_mode;%23+./unleash_the_blade.sh+--target=world;%23+echo+%22Welcome%2C+Ronin.%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2E2E&background=0D0D0D&center=true&vCenter=true&width=600&lines=%24+sudo+su+root;%23+systemctl+start+samurai_mode;%23+./unleash_the_blade.sh;%23+echo+%22Welcome%2C+Ronin.%22" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
 <!-- ============================================================ -->
-<!-- ПРИВЕТСТВИЕ -->
+<!-- ЗАГОЛОВОК -->
 <!-- ============================================================ -->
-<h1 align="center">⚔️ Hi, I'm Zuza (Azusagawosh)</h1>
+## Azusagawosh
 
-<p align="center">
-  <em>Aspiring Rust Backend Developer · Code Ronin</em>
-</p>
+*Rust Backend Developer · Code Ronin*
 
 <br>
 
 <!-- ============================================================ -->
 <!-- ОБО МНЕ -->
 <!-- ============================================================ -->
-## ⛩️ Обо мне (About Me)
+**武士道** · Мой код следует Пути Воина — надежность, точность, честь.
 
-**武士道 (Bushido)** — Мой код следует Пути Воина: надежность, честь и точность.
-
-- 🔭 **集中 (Concentration)** — Строю высоконагруженные системы на **Rust**, **Axum** и **PostgreSQL**.
-- 🛠️ **刃 (Blade)** — Использую **Docker** и **Linux** как основные клинки.
-- 📚 **学 (Learning)** — Изучаю backend-архитектуру, асинхронность и системный дизайн.
-- 🎯 **目標 (Goal)** — Стать сильным Rust-разработчиком и строить production-ready системы.
+- **集中** — Строю системы на **Rust**, **Axum**, **PostgreSQL**.
+- **刃** — Использую **Docker** и **Linux** как основные инструменты.
+- **学** — Изучаю backend-архитектуру и системный дизайн.
 
 <br>
 
 <!-- ============================================================ -->
-<!-- ТЕКУЩИЕ ПРОЕКТЫ -->
+<!-- ПРОЕКТЫ -->
 <!-- ============================================================ -->
-## 🚀 Текущие проекты (Current Projects)
+### Проекты
 
-- **Flow** — CLI-инструмент для управления проектами на Rust.
-- **Cafe Manager Pro** — Full-stack приложение (Rust + Axum + React + PostgreSQL + Docker).
+- **Flow** — CLI-инструмент для управления проектами.
+- **Cafe Manager Pro** — Full-stack приложение (Rust + React + Docker).
 
 <br>
 
 <!-- ============================================================ -->
-<!-- АРСЕНАЛ (TECH STACK) -->
+<!-- АРСЕНАЛ -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>🛡️ Арсенал (Tech Stack)</h2>
-  
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=FF2E2E" alt="Rust" />
   <img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=axum&logoColor=FF2E2E" alt="Axum" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -76,22 +70,18 @@
 <!-- СТАТИСТИКА -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>📊 Путь Воина (Stats)</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Azusagawosh&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF2E2E&icon_color=FF2E2E&text_color=FFFFFF&border_color=FF2E2E&hide_rank=true" alt="Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Azusagawosh&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF2E2E&icon_color=FF2E2E&text_color=FFFFFF&border_color=FF2E2E" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azusagawosh&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FF2E2E&text_color=FFFFFF&border_color=FF2E2E" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azusagawosh&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FF2E2E&text_color=FFFFFF&border_color=FF2E2E&hide_title=true" alt="Top Languages" />
 </div>
 
 <br>
 
 <!-- ============================================================ -->
-<!-- ЗМЕЯ-КАТАНА (АКТИВНОСТЬ) -->
+<!-- ЗМЕЯ -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>🐍 Ронин в поисках коммитов</h2>
-  
-  <img src="https://raw.githubusercontent.com/Azusagawosh/Azusagawosh/output/snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Azusagawosh/Azusagawosh/output/snake-dark.svg" alt="Snake" />
 </div>
 
 <br>
@@ -100,26 +90,12 @@
 <!-- КОНТАКТЫ -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>📫 Контакты (Contacts)</h2>
-  
   <a href="https://github.com/Azusagawosh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://t.me/Azusagawosh">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-</div>
-
-<br>
-
-<!-- ============================================================ -->
-<!-- ЦИТАТА -->
-<!-- ============================================================ -->
-<div align="center">
-  <blockquote>
-    <p><em>"七転び八起き — Упади семь раз, встань восемь."</em></p>
-    <p><em>— Японская пословица</em></p>
-  </blockquote>
 </div>
 
 
